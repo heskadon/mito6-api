@@ -1,0 +1,549 @@
+[
+  {
+    "calloff": {
+      "id": "5b0e75caaddeaf44e22febf1",
+      "dm": "Delivery",
+      "dp": "5ae026a68d960cc672c30f58",
+      "dpName": "Pandugo 2, Surabaya, Jawa Timur, 60123",
+      "notes": "yards",
+      "tally": "1",
+      "transport": "Toll Energy - Dampier",
+      "appv_user": "winata01@gmail.com",
+      "no": "MITO-PSP-2018-0027",
+      "dateRequired": "30-05-2018",
+	  "customer":"Quadrant Energy"
+    },
+    "items": [
+      {
+        "idItem": "559e32444412801d40a50048",
+        "desc": "7\", 23 PPF, K55, PSL1, BC, R3",
+        "axaptano": "I0700-230-0019",
+        "wellname": "Goldsmith 1",
+		"unit": "jts",
+		"j2mt": "0.02",
+        "pono": "po-983",
+		"selectedBatch":[
+			{
+					"idCPO": "55af6aca4412809c55cc9",
+					"batch": "CPO-7021",
+					"owned": "Y",
+					"condition":"good",
+					"qty": 3,
+					"key": 0,
+					"idx": 0
+			},
+			{
+					"idCPO": "55af6aca4412809c55cc10",
+					"owned": "Y",
+					"batch": "CPO-8021",
+					"condition":"good",
+					"qty": 2,
+					"key": 0,
+					"idx": 1
+			}
+		],
+		"condition":"good",
+		"qty": 5,
+		"availableBatch":[
+			{
+				"idCPO": "55af6aca4412809c55cc9",
+				"owned": "Y",
+				"batch": "CPO-7021",
+				"qty":4,
+				"rack":[
+					{
+						"idRack": "55af6aca4412809c55cc9521",
+						"rack":"4419",
+						"good":"2"
+					},
+					{
+						"idRack": "55af6aca4412809c55cc9522",
+						"rack":"4420",
+						"good":"2"
+					}
+				],
+				"tally": [
+					{
+						"pipeNo":"",
+						"heatNo":"4-90074",
+						"length":"18.280"
+					},
+					{
+						"pipeNo":"",
+						"heatNo":"4-90074",
+						"length":"18.280"
+					},
+					{
+						"pipeNo":"",
+						"heatNo":"4-90074",
+						"length":"18.280"
+					},
+					{
+						"pipeNo":"",
+						"heatNo":"4-90074",
+						"length":"18.280"
+					}
+				]
+
+			},
+			{
+				"idCPO": "55af6aca4412809c55cc10",
+				"owned": "Y",
+				"batch": "CPO-8021",
+				"qty":5,
+				"rack":[
+					{
+						"idRack": "55af6aca4412809c55cc9522",
+						"rack":"4419",
+						"good":"1"
+					},
+					{
+						"idRack": "55af6aca4412809c55cc9523",
+						"rack":"4420",
+						"good":"4"
+					}
+				],
+				"tally": [
+					{
+						"pipeNo":"",
+						"heatNo":"4-60074",
+						"length":"18.280"
+					},
+					{
+						"pipeNo":"",
+						"heatNo":"4-60074",
+						"length":"18.280"
+					},
+					{
+						"pipeNo":"",
+						"heatNo":"4-60074",
+						"length":"18.280"
+					},
+					{
+						"pipeNo":"",
+						"heatNo":"4-60074",
+						"length":"18.280"
+					},
+					{
+						"pipeNo":"",
+						"heatNo":"4-60074",
+						"length":"18.280"
+					}
+				]
+			},
+			{
+				"idCPO": "55af6aca4412809c55c12",
+				"owned": "N",
+				"batch": "CPO-8025",
+				"qty":5,
+				"rack":[
+					{
+						"idRack": "55af6aca4412809c55cc9522",
+						"rack":"4419",
+						"good":"5"
+					}
+				],
+				"tally": [
+					{
+						"pipeNo":"",
+						"heatNo":"4-10074",
+						"length":"18.280"
+					},
+					{
+						"pipeNo":"",
+						"heatNo":"4-10074",
+						"length":"18.280"
+					},
+					{
+						"pipeNo":"",
+						"heatNo":"4-10074",
+						"length":"18.280"
+					},
+					{
+						"pipeNo":"",
+						"heatNo":"4-10074",
+						"length":"18.280"
+					},
+					{
+						"pipeNo":"",
+						"heatNo":"4-10074",
+						"length":"18.280"
+					}
+				]
+			}
+		]
+      },
+	  {
+        "idItem": "559e32444412801d40a50050",
+        "desc": "5\", 18 PPF, K55, PSL1, BC, R3",
+        "axaptano": "I0700-230-0020",
+        "wellname": "Apache",
+		"unit": "jts",
+		"j2mt": "0.02",
+        "pono": "po-187",
+		"selectedBatch":[
+			{
+					"idCPO": "55af6aca4412809c55cd8",
+					"batch": "CPO-7035",
+					"owned": "Y",
+					"condition":"good",
+					"qty": 3,
+					"key": 1,
+					"idx": 0
+			},
+			{
+					"idCPO": "55af6aca4412809c55cc10",
+					"owned": "Y",
+					"batch": "CPO-8021",
+					"condition":"good",
+					"qty": 7,
+					"key": 1,
+					"idx": 1
+			}
+		],
+		"condition":"good",
+        "qty": 10,
+		"availableBatch":[
+			{
+				"idCPO": "55af6aca4412809c55cd8",
+				"owned": "Y",
+				"batch": "CPO-7035",
+				"qty":10,
+				"rack":[
+					{
+						"idRack": "55af6aca4412809c55cc9522",
+						"rack":"4419",
+						"good":"5"
+					},
+					{
+						"idRack": "55af6aca4412809c55cc9523",
+						"rack":"4420",
+						"good":"5"
+					}
+				],
+				"tally": [
+					{
+						"pipeNo":"",
+						"heatNo":"4-60074",
+						"length":"18.280"
+					},
+					{
+						"pipeNo":"",
+						"heatNo":"4-60074",
+						"length":"18.280"
+					},
+					{
+						"pipeNo":"",
+						"heatNo":"4-60074",
+						"length":"18.280"
+					}
+					,
+					{
+						"pipeNo":"",
+						"heatNo":"4-60074",
+						"length":"18.280"
+					}
+					,
+					{
+						"pipeNo":"",
+						"heatNo":"4-60074",
+						"length":"18.280"
+					}
+					,
+					{
+						"pipeNo":"",
+						"heatNo":"4-60074",
+						"length":"18.280"
+					}
+					,
+					{
+						"pipeNo":"",
+						"heatNo":"4-60074",
+						"length":"18.280"
+					}
+					,
+					{
+						"pipeNo":"",
+						"heatNo":"4-60074",
+						"length":"18.280"
+					}
+					,
+					{
+						"pipeNo":"",
+						"heatNo":"4-60074",
+						"length":"18.280"
+					}
+					,
+					{
+						"pipeNo":"",
+						"heatNo":"4-60074",
+						"length":"18.280"
+					}
+				]
+
+			},
+			{
+				"idCPO": "55af6aca4412809c55ccfg",
+				"owned": "Y",
+				"batch": "CPO-8034",
+				"qty":8,
+				"rack":[
+					{
+						"idRack": "55af6aca4412809c55cc9522",
+						"rack":"4419",
+						"good":"1"
+					},
+					{
+						"idRack": "55af6aca4412809c55cc9523",
+						"rack":"4420",
+						"good":"7"
+					}
+				],
+				"tally": [
+					{
+						"pipeNo":"",
+						"heatNo":"4-20074",
+						"length":"18.280"
+					},
+					{
+						"pipeNo":"",
+						"heatNo":"4-20074",
+						"length":"18.280"
+					},
+					{
+						"pipeNo":"",
+						"heatNo":"4-20074",
+						"length":"18.280"
+					}
+					,
+					{
+						"pipeNo":"",
+						"heatNo":"4-20074",
+						"length":"18.280"
+					}
+					,
+					{
+						"pipeNo":"",
+						"heatNo":"4-20074",
+						"length":"18.280"
+					}
+					,
+					{
+						"pipeNo":"",
+						"heatNo":"4-20074",
+						"length":"18.280"
+					}
+					,
+					{
+						"pipeNo":"",
+						"heatNo":"4-20074",
+						"length":"18.280"
+					}
+					,
+					{
+						"pipeNo":"",
+						"heatNo":"4-20074",
+						"length":"18.280"
+					}
+				]
+			},
+			{
+				"idCPO": "55af6aca4412809c55c12",
+				"owned": "N",
+				"batch": "CPO-8033",
+				"qty":3,
+				"rack":[
+					{
+						"idRack": "55af6aca4412809c55cc9522",
+						"rack":"4419",
+						"good":"1"
+					},
+					{
+						"idRack": "55af6aca4412809c55cc9523",
+						"rack":"4420",
+						"good":"2"
+					}
+				],
+				"tally": [
+					{
+						"pipeNo":"",
+						"heatNo":"4-30074",
+						"length":"18.280"
+					},
+					{
+						"pipeNo":"",
+						"heatNo":"4-30074",
+						"length":"18.280"
+					},
+					{
+						"pipeNo":"",
+						"heatNo":"4-30074",
+						"length":"18.280"
+					}
+				]
+			}
+		]
+      }
+
+    ]
+  },
+  {
+    "calloff": {
+      "id": "5b0e75caaddeaf44e22febf1",
+      "dm": "Delivery",
+      "dp": "5ae026a68d960cc672c30f58",
+      "dpName": "Pandugo 4, Surabaya, Jawa Timur, 60123",
+      "notes": "Note to yard",
+      "tally": "0",
+      "transport": "Transport - MITO",
+      "appv_user": "winata01@gmail.com",
+      "no": "MITO-PSP-2018-0028",
+      "dateRequired": "31-05-2018",
+	  "customer":"Quadrant Energy"
+    },
+    "items": [
+      {
+        "idItem": "559e32444412801d40a50048",
+        "desc": "8\", 23 PPF, K55, PSL1, BC, R3",
+		"unit": "jts",
+		"j2mt": "0.03",
+        "axaptano": "I0700-230-0019",
+        "wellname": "Goldsmith 1",
+        "pono": "po-983",
+		"selectedBatch":[
+			{
+					"idCPO": "55af6aca4412809c55cc9",
+					"batch": "CPO-7022",
+					"owned": "Y",
+					"condition":"good",
+					"qty": 6,
+					"key": 0,
+					"idx": 0
+			},
+			{
+					"idCPO": "55af6aca4412809c55cc10",
+					"owned": "Y",
+					"batch": "CPO-8021",
+					"condition":"good",
+					"qty": 2,
+					"key": 0,
+					"idx": 1
+			}
+		],
+        "qty": 8,
+		"availableBatch":[
+			{
+				"idCPO": "55af6aca4412809c55cc9",
+				"owned": "Y",
+				"batch": "CPO-7022",
+				"qty":5,
+				"rack":[
+					{
+						"idRack": "55af6aca4412809c55cc9522",
+						"rack":"4419",
+						"good":"4"
+					},
+					{
+						"idRack": "55af6aca4412809c55cc9523",
+						"rack":"4420",
+						"good":"1"
+					}
+				],
+				"tally": [
+					{
+						"pipeNo":"",
+						"heatNo":"4-60074",
+						"length":"18.280"
+					},
+					{
+						"pipeNo":"",
+						"heatNo":"4-60074",
+						"length":"18.280"
+					}
+					,
+					{
+						"pipeNo":"",
+						"heatNo":"4-60074",
+						"length":"18.280"
+					}
+					,
+					{
+						"pipeNo":"",
+						"heatNo":"4-60074",
+						"length":"18.280"
+					}
+					,
+					{
+						"pipeNo":"",
+						"heatNo":"4-60074",
+						"length":"18.280"
+					}
+				]
+
+			},
+			{
+				"idCPO": "55af6aca4412809c55cc10",
+				"owned": "Y",
+				"batch": "CPO-8021",
+				"qty":7,
+				"rack":[
+					{
+						"idRack": "55af6aca4412809c55cc9522",
+						"rack":"4419",
+						"good":"5"
+					},
+					{
+						"idRack": "55af6aca4412809c55cc9523",
+						"rack":"4420",
+						"good":"2"
+					}
+				],
+				"tally": [
+					{
+						"pipeNo":"",
+						"heatNo":"4-80074",
+						"length":"18.280"
+					},
+					{
+						"pipeNo":"",
+						"heatNo":"4-80074",
+						"length":"18.280"
+					}
+					,
+					{
+						"pipeNo":"",
+						"heatNo":"4-80074",
+						"length":"18.280"
+					}
+					,
+					{
+						"pipeNo":"",
+						"heatNo":"4-80074",
+						"length":"18.280"
+					}
+					,
+					{
+						"pipeNo":"",
+						"heatNo":"4-80074",
+						"length":"18.280"
+					}
+					,
+					{
+						"pipeNo":"",
+						"heatNo":"4-80074",
+						"length":"18.280"
+					}
+					,
+					{
+						"pipeNo":"",
+						"heatNo":"4-80074",
+						"length":"18.280"
+					}
+				]
+			}
+		]
+
+      }
+    ]
+  }
+]
